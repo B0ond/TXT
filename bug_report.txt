@@ -1,1 +1,20 @@
-
+id: 1
+title: аутентификация пользователя на www.goszakupky.ru,
+    priority: 1,
+    siverity: 1,
+    environment:
+                      browser: Chrome_99.0.4844.74,
+                      OS: Windows 10,
+                      country: Russia,
+                      proxy: gov.rf.ru,
+                      Antivirus: Kaspersky free antivirus_20.1.1,
+                      Cryptography key: govkey.key
+                      
+    attachment: www.gov.filesaver/file1.jpg, www.gov.filesaver/file2.mp4,
+    description: При выборе вход через ЭЦП не заходит на сайт выводит ошибку '400',
+    steps: нажимаем вход через ЭЦП на сайте www.goszakupky.ru,
+    expected: появлется окно подверждения ЭЦП нажимаем 'далее', после этого успешно проходим авторизацию,
+    actual: выдает ошибку 400,
+    workaround: "Удалить Kspersky free antivirus_20.1.1,
+    bag_report_create: Amiram Yalaltdinov,
+    Fixing: Vasya Pupkin.
