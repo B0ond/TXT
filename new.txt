@@ -1,0 +1,6 @@
+surname Yalaltdinov
+name Amiram
+patronymic Mukharyamovich
+age 27
+pets 0
+salary 10000
