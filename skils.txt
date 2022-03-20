@@ -1,0 +1,3 @@
+ skils
+hard: git, api, AndroidS tudio, Postman, Charles, Fidler, JSON, XML, SQL, Jmeter, Scrum, Python.
+soft: communiation culture, self-discipline, detoxification.
